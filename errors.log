@@ -1,0 +1,291 @@
+some stuffnew stuff
+new stuff2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:24,218 - verify_follow_up_receipt_time - ERROR - Follow Up Message timestamp exceeds configured time limit of 10 minutes beyond origin time.
+2022-03-28 14:52:26,521 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:27,774 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:29,183 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:31,049 - verify_follow_up_receipt_time - ERROR - Follow Up Message timestamp exceeds configured time limit of 10 minutes beyond origin time.
+2022-03-28 14:52:31,282 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:34,940 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:37,023 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:38,297 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:38,299 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:39,084 - extract_contour_elements - ERROR - Processing event_message, core_info, mag or id: float() argument must be a string or a number, not 'NoneType'
+2022-03-28 14:52:39,090 - incoming_message_loop - ERROR - Failed to process/save incoming contour message: ModelBase object argument after ** must be a mapping, not NoneType
+2022-03-28 14:52:39,771 - extract_contour_elements - ERROR - Processing event_message, core_info, mag or id: not enough values to unpack (expected 2, got 1)
+2022-03-28 14:52:39,775 - incoming_message_loop - ERROR - Failed to process/save incoming contour message: ModelBase object argument after ** must be a mapping, not NoneType
+2022-03-28 14:52:39,812 - get_alert_polygon_coord_string - ERROR - Unexpected error from get_alert_polygon_coord_string: <class 'TypeError'>
+2022-03-28 14:52:40,029 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:41,572 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:41,694 - contour_message_to_cap_loop - ERROR - Failed to create/save cap message from contour message 2020(version #0): A LinearRing must have at least 3 coordinate tuples
+2022-03-28 14:52:43,218 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:45,066 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:46,501 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:47,828 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:47,830 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:49,176 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:50,288 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:51,736 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:52,974 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:54,212 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:55,458 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:55,461 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:56,675 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:57,805 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:59,001 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:00,159 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:01,354 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:02,624 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:02,626 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:03,760 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:04,959 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:06,213 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:07,357 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:08,494 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:09,625 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:09,628 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:10,915 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:12,231 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:13,391 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:14,538 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:15,793 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:17,027 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:17,030 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:18,236 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:18,239 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:19,367 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:19,370 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:20,526 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:20,529 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:21,706 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:21,710 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:22,916 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:22,919 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:24,026 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:24,030 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:25,295 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:25,298 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:26,689 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:26,693 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:28,091 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:28,094 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:29,303 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:24,218 - verify_follow_up_receipt_time - ERROR - Follow Up Message timestamp exceeds configured time limit of 10 minutes beyond origin time.
+2022-03-28 14:52:26,521 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:27,774 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:29,183 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:31,049 - verify_follow_up_receipt_time - ERROR - Follow Up Message timestamp exceeds configured time limit of 10 minutes beyond origin time.
+2022-03-28 14:52:31,282 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:34,940 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:37,023 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:38,297 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:38,299 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:39,084 - extract_contour_elements - ERROR - Processing event_message, core_info, mag or id: float() argument must be a string or a number, not 'NoneType'
+2022-03-28 14:52:39,090 - incoming_message_loop - ERROR - Failed to process/save incoming contour message: ModelBase object argument after ** must be a mapping, not NoneType
+2022-03-28 14:52:39,771 - extract_contour_elements - ERROR - Processing event_message, core_info, mag or id: not enough values to unpack (expected 2, got 1)
+2022-03-28 14:52:39,775 - incoming_message_loop - ERROR - Failed to process/save incoming contour message: ModelBase object argument after ** must be a mapping, not NoneType
+2022-03-28 14:52:39,812 - get_alert_polygon_coord_string - ERROR - Unexpected error from get_alert_polygon_coord_string: <class 'TypeError'>
+2022-03-28 14:52:40,029 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:41,572 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:41,694 - contour_message_to_cap_loop - ERROR - Failed to create/save cap message from contour message 2020(version #0): A LinearRing must have at least 3 coordinate tuples
+2022-03-28 14:52:43,218 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:45,066 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:46,501 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:47,828 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:47,830 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:49,176 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:50,288 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:51,736 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:52,974 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:54,212 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:55,458 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:55,461 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:56,675 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:57,805 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:59,001 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:00,159 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:01,354 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:02,624 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:02,626 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:03,760 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:04,959 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:06,213 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:07,357 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:08,494 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:09,625 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:09,628 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:10,915 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:12,231 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:13,391 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:14,538 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:15,793 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:17,027 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:17,030 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:18,236 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:18,239 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:19,367 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:19,370 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:20,526 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:20,529 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:21,706 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:21,710 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:22,916 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:22,919 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:24,026 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:24,030 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:25,295 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:25,298 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:26,689 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:26,693 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:28,091 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:28,094 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:29,303 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:24,218 - verify_follow_up_receipt_time - ERROR - Follow Up Message timestamp exceeds configured time limit of 10 minutes beyond origin time.
+2022-03-28 14:52:26,521 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:27,774 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:29,183 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:31,049 - verify_follow_up_receipt_time - ERROR - Follow Up Message timestamp exceeds configured time limit of 10 minutes beyond origin time.
+2022-03-28 14:52:31,282 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:34,940 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:37,023 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:38,297 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:38,299 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:39,084 - extract_contour_elements - ERROR - Processing event_message, core_info, mag or id: float() argument must be a string or a number, not 'NoneType'
+2022-03-28 14:52:39,090 - incoming_message_loop - ERROR - Failed to process/save incoming contour message: ModelBase object argument after ** must be a mapping, not NoneType
+2022-03-28 14:52:39,771 - extract_contour_elements - ERROR - Processing event_message, core_info, mag or id: not enough values to unpack (expected 2, got 1)
+2022-03-28 14:52:39,775 - incoming_message_loop - ERROR - Failed to process/save incoming contour message: ModelBase object argument after ** must be a mapping, not NoneType
+2022-03-28 14:52:39,812 - get_alert_polygon_coord_string - ERROR - Unexpected error from get_alert_polygon_coord_string: <class 'TypeError'>
+2022-03-28 14:52:40,029 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:41,572 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:41,694 - contour_message_to_cap_loop - ERROR - Failed to create/save cap message from contour message 2020(version #0): A LinearRing must have at least 3 coordinate tuples
+2022-03-28 14:52:43,218 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:45,066 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:46,501 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:47,828 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:47,830 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:49,176 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:50,288 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:51,736 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:52,974 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:54,212 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:55,458 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:55,461 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:56,675 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:57,805 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:59,001 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:00,159 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:01,354 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:02,624 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:02,626 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:03,760 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:04,959 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:06,213 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:07,357 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:08,494 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:09,625 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:09,628 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:10,915 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:12,231 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:13,391 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:14,538 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:15,793 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:17,027 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:17,030 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:18,236 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:18,239 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:19,367 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:19,370 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:20,526 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:20,529 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:21,706 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:21,710 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:22,916 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:22,919 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:24,026 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:24,030 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:25,295 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:25,298 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:26,689 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:26,693 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:28,091 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:28,094 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:29,303 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:24,218 - verify_follow_up_receipt_time - ERROR - Follow Up Message timestamp exceeds configured time limit of 10 minutes beyond origin time.
+2022-03-28 14:52:26,521 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:27,774 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:29,183 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:31,049 - verify_follow_up_receipt_time - ERROR - Follow Up Message timestamp exceeds configured time limit of 10 minutes beyond origin time.
+2022-03-28 14:52:31,282 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:34,940 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:37,023 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:38,297 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:38,299 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:39,084 - extract_contour_elements - ERROR - Processing event_message, core_info, mag or id: float() argument must be a string or a number, not 'NoneType'
+2022-03-28 14:52:39,090 - incoming_message_loop - ERROR - Failed to process/save incoming contour message: ModelBase object argument after ** must be a mapping, not NoneType
+2022-03-28 14:52:39,771 - extract_contour_elements - ERROR - Processing event_message, core_info, mag or id: not enough values to unpack (expected 2, got 1)
+2022-03-28 14:52:39,775 - incoming_message_loop - ERROR - Failed to process/save incoming contour message: ModelBase object argument after ** must be a mapping, not NoneType
+2022-03-28 14:52:39,812 - get_alert_polygon_coord_string - ERROR - Unexpected error from get_alert_polygon_coord_string: <class 'TypeError'>
+2022-03-28 14:52:40,029 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:41,572 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:41,694 - contour_message_to_cap_loop - ERROR - Failed to create/save cap message from contour message 2020(version #0): A LinearRing must have at least 3 coordinate tuples
+2022-03-28 14:52:43,218 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:45,066 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:46,501 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:47,828 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:47,830 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:49,176 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:50,288 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:51,736 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:52,974 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:54,212 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:55,458 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:55,461 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:52:56,675 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:57,805 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:52:59,001 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:00,159 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:01,354 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:02,624 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:02,626 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:03,760 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:04,959 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:06,213 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:07,357 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:08,494 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:09,625 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:09,628 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:10,915 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:12,231 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:13,391 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:14,538 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:15,793 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:17,027 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:17,030 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:18,236 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:18,239 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:19,367 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:19,370 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:20,526 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:20,529 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:21,706 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:21,710 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:22,916 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:22,919 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:24,026 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:24,030 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:25,295 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:25,298 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:26,689 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:26,693 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:28,091 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:53:28,094 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
+2022-03-28 14:53:29,303 - send - ERROR - Error sending alert email: [Errno 111] Connection refused
+2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused2022-03-28 14:51:52,324 - send - ERROR - Error sending alert SMS: [Errno 111] Connection refused
